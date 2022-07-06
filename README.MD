@@ -1,15 +1,15 @@
-#Projeto React I - Semana 14 {Reprograma}
+Projeto React I - Semana 14 {Reprograma}
 
-###Professora: Simara Conceição
+Professora: Simara Conceição
 
-##O que aprendi nessas semana??
+O que aprendi nessas semana??
 -O que é react;
 -Preparar o ambiente e "Olá Mundo!"
 -Criar projet react com vite
 -Componentes 
 -Adereços
 
-##Desafio da semana - Meu diário Reprograma
+Desafio da semana - Meu diário Reprograma
 
 -Criar um projeto react com vite
 -Apagar as informações default
